@@ -14,6 +14,14 @@ LOCKUPS (each comes in color / black / white)
   lockup-stacked*               Symbol above "Common Ground". Square-ish spaces.
   lockup-horizontal-altadena*   "Common Ground · Altadena" — when location helps.
   lockup-stacked-altadena-left* Mark above "Common Ground" / "Altadena", left-aligned.
+  lockup-stacked-altadena*      Same, centered.
+
+AVATARS (square, background baked in — for profile pictures)
+  avatar-forest   White mark on forest green. The primary avatar.
+  avatar-cream    Color mark on cream.
+  avatar-sage     White mark on sage green.
+  avatar-white    Color mark on white.
+  Sized so the mark stays inside the circular crop social platforms apply.
 
 COLOR VERSIONS
   *-color   Full brand color. Use on white or light (cream) backgrounds.
