@@ -13,6 +13,7 @@ LOCKUPS (each comes in color / black / white)
   lockup-horizontal*            Symbol + "Common Ground". The default logo.
   lockup-stacked*               Symbol above "Common Ground". Square-ish spaces.
   lockup-horizontal-altadena*   "Common Ground · Altadena" — when location helps.
+  lockup-stacked-altadena-left* Mark above "Common Ground" / "Altadena", left-aligned.
 
 COLOR VERSIONS
   *-color   Full brand color. Use on white or light (cream) backgrounds.
